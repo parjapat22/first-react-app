@@ -5,7 +5,6 @@ import Card from '../UI/Card';
 import './ExpenseItem.css';
 
 const ExpenseItem = (props) => {
-
   return (
     <li>
       <Card className='expense-item'>
